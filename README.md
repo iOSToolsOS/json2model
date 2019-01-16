@@ -4,7 +4,7 @@ auto convert json string to swift struct.[中文介绍](./Document/README_chs.md
 
 ![demo](./Document/demo.gif)
 
-
+![UML](./Document/uml.png)
 
 ***
 
