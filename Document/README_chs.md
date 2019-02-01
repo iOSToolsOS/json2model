@@ -2,8 +2,10 @@
 
 根据json字符串自动生成swift对应的类代码。
 
-![demo](./demo.gif)
+由 [开发者之刃](https://www.juanji.xyz) 提供动力
 
+![demo](./demo.gif)
+![UML](./uml.png)
 
 > 说明
 
